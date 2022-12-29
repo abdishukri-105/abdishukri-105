@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Abdishukri Mohamed
 - 🌱 I’m currently learning javaScript and  Sass 
 - 💞️ I’m looking to collaborate on any front-end project 
-- 📫 How to reach me abdishukrimohamed105@gmail.com
+- 📫 How to reach me :
+      - Email: abdishukrimohamed105@gmail.com
+      - LinkedIn: [abdishukri-mohamed](https://www.linkedin.com/in/abdishukri-mohamed/)
+      - Twitter: [@abdishukrimoh18](https://twitter.com/AbdishukriMoh18)
 
-<!---
-abdishukri-105/abdishukri-105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
