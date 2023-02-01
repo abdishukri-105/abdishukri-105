@@ -3,7 +3,7 @@
 ## About Me 
 I'm a software engineer with a degree in IT from Jomo Kenyatta University of Agriculture and Technology 🎓. Currently, I'm in a coding bootcamp called Moringa School, where I'm expanding my skills and knowledge in web development 🚀.
 
-- 🌱 I’m currently learning REACT  and Tailwind CSS
+- 🌱 I’m currently learning RUBY
 - 💞️ I’m looking to collaborate on any front-end project 
 
 ## Skills
@@ -11,6 +11,8 @@ I'm a software engineer with a degree in IT from Jomo Kenyatta University of Agr
  -  CSS
  -  JavaScript
  -  Bootstrap
+ -  REACTJS
+ -  Tailwind CSS
 
 ## contacts
    - Email: abdishukrimohamed105@gmail.com
