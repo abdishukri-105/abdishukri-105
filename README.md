@@ -1,9 +1,9 @@
 #  <div align = "center">Abdishukri Mohamed Adan</div> 
 
 ## About Me 
-I'm a software engineer with a degree in IT from Jomo Kenyatta University of Agriculture and Technology 🎓. Currently, I'm in a coding bootcamp called Moringa School, where I'm expanding my skills and knowledge in web development 🚀.
+I'm a software developer with a degree in IT from Jomo Kenyatta University of Agriculture and Technology 🎓. Currently, I'm in a coding bootcamp called Moringa School, where I'm expanding my skills and knowledge in web development 🚀.
 
-- 🌱 I’m currently learning RUBY
+- 🌱 I’m currently learning RUBY ON RAILS
 - 💞️ I’m looking to collaborate on any front-end project 
 
 ## Skills
@@ -13,6 +13,7 @@ I'm a software engineer with a degree in IT from Jomo Kenyatta University of Agr
  -  Bootstrap
  -  REACTJS
  -  Tailwind CSS
+ -  RUBY
 
 ## contacts
    - Email: abdishukrimohamed105@gmail.com
