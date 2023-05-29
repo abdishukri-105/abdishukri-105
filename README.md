@@ -12,7 +12,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="mydeployedportfolio link">AbdiShukri MOhamed</a></b>
+                <b><a target="_blank" href="my deployed portfolio link">AbdiShukri MOhamed</a></b>
         </samp>
 </h3>
 
@@ -39,18 +39,13 @@
  <a href="https://www.linkedin.com/in/abdishukri-mohamed/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abdishukri"/>
  </a>
-<!--  <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
  <a href="https://twitter.com/AbdishukriMoh18" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://www.instagram.com/__abdishukri_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Abdishukri" />
  </a> 
-<!--  <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a>  -->
+
 </p>
 <br />
 
@@ -123,50 +118,11 @@
 </p>
 
 <a> 
-    <a href="https://github.com/abdishukri-105"><img alt="Abdishukri's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdishukri-105&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/abdishukri-105"><img alt="Abdishukri's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdishukri-      105&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/abdishukri-105"><img alt="Abdishukri's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdishukri-105&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-<!-- ![Abdishukri's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abdishukri-105&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- #  <div align = "center">Abdishukri Mohamed Adan</div> 
-
-## About Me 
-I'm a software developer with a degree in IT from Jomo Kenyatta University of Agriculture and Technology 🎓. Currently, I'm in a coding bootcamp called Moringa School, where I'm expanding my skills and knowledge in web development 🚀.
-
-- 🌱 I’m currently learning RUBY ON RAILS
-- 💞️ I’m looking to collaborate on any front-end project 
-
-## Skills
- - HTML
- -  CSS
- -  JavaScript
- -  Bootstrap
- -  REACTJS
- -  Tailwind CSS
- -  RUBY
-
-## contacts
-   - Email: abdishukrimohamed105@gmail.com
-   - LinkedIn: [abdishukri-mohamed](https://www.linkedin.com/in/abdishukri-mohamed/)
-   - Twitter: [@abdishukrimoh18](https://twitter.com/AbdishukriMoh18)
-
-
- -->
