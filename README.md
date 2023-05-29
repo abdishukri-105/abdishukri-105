@@ -1,11 +1,13 @@
 
-<!-- <a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<!-- <a href="https://komarev.com/ghpvc/?username=abdishukri">
+  <img align="right" src="https://komarev.com/ghpvc/?username=abdishukri&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+ -->
 
+ 
 
 <!-- Intro  -->
 <h3 align="center">
@@ -13,6 +15,11 @@
                 <b><a target="_blank" href="mydeployedportfolio link">AbdiShukri MOhamed</a></b>
         </samp>
 </h3>
+
+<!-- <p align="center">
+  <a href="https://github.com/abdishukri-105"><img src="https://readme-typing-svg.herokuapp.com/?lines=IT%20Specialist;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p> -->
+
 
 <p align="center"> 
   <samp>
@@ -23,6 +30,7 @@
     <br>
   </samp>
 </p>
+
 
 <p align="center">
  <a href="my website link" target="blank">
@@ -80,6 +88,8 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-red?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 <!-- ![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white) -->
 <!-- ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) -->
@@ -94,6 +104,32 @@
 
 
 
+<br/>
+<hr/>
+<br/>
+
+
+
+<p align="center">
+  <a href="https://github.com/abdishukri-105">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdishukri-105&theme=radical&border=7F3FBF&background=0D1117" alt="abdishukri's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/abdishukri-105">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdishukri-105&theme=radical" alt="Abdishukri"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/abdishukri-105"><img alt="Abdishukri's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdishukri-105&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/abdishukri-105"><img alt="Abdishukri's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdishukri-105&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+<!-- ![Abdishukri's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abdishukri-105&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
 
 
 
