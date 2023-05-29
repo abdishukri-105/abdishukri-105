@@ -47,6 +47,26 @@
 <br />
 
 
+<!-- About Section -->
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ✌️  &emsp;  I find great joy in programming and sharing knowledge with others. <br/><br/>
+ ❤️ &emsp;  I have a deep passion for writing code and constantly expanding my knowledge by exploring new features.<br/><br/>
+ 📧 &emsp;  Feel free to reach out to me anytime at abdishukrimohamed105@gmail.com<br/><br/>
+ 🌱 &emsp;  I’m currently learning AWS cloud computing at  alx_africa<br/><br/>
+ 💞️ &emsp;  I’m looking to collaborate on any front-end project
+  <!--  💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)<br/><br/> -->
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
+
 
 
 
