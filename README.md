@@ -25,7 +25,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Abdishukri+mohamed">「 Google Me 」</a>
     <br>
-    「 I am a full stack web appplication developer from <b>Kenya</b> 」
+    「 A full stack web appplication developer from <b>Kenya</b> 」
     <br>
     <br>
   </samp>
