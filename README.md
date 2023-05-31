@@ -51,7 +51,7 @@
 
 
 <!-- About Section -->
- # About me
+ ## About me
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -70,7 +70,7 @@
 <br/>
 
 
-## Use To Code
+## Technologies I Work With
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
