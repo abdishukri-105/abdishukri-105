@@ -59,8 +59,8 @@
  ✌️  &emsp;  I find great joy in programming and sharing knowledge with others. <br/><br/>
  ❤️ &emsp;  I have a deep passion for writing code and constantly expanding my knowledge by exploring new features.<br/><br/>
  📧 &emsp;  Feel free to reach out to me anytime at abdishukrimohamed105@gmail.com<br/><br/>
- 🌱 &emsp;  I’m currently learning AWS cloud computing at  alx_africa<br/><br/>
- 💞️ &emsp;  I’m looking to collaborate on any front-end project
+ 🌱 &emsp;  I’m currently learning AWS cloud computing at  alx_africa and python <br/><br/>
+ 💞️ &emsp;  I’m looking to collaborate on any full-stack project
   <!--  💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)<br/><br/> -->
 
 </p>
@@ -86,6 +86,7 @@
 ![Ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-red?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white)
 
 <!-- ![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white) -->
 <!-- ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) -->
