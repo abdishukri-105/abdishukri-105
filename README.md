@@ -25,7 +25,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Abdishukri+mohamed">「 Google Me 」</a>
     <br>
-    「 A full stack web appplication developer from <b>Kenya</b> 」
+    「 A full stack web and cloud developer from <b>Kenya</b> 」
     <br>
     <br>
   </samp>
@@ -33,7 +33,7 @@
 
 
 <p align="center">
- <a href="my website link" target="blank">
+ <a href="https://bit.ly/shukri-mohamed" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="abdishukri" />
  </a>
  <a href="https://www.linkedin.com/in/abdishukri-mohamed/" target="_blank">
