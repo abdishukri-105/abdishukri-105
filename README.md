@@ -56,14 +56,14 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️  &emsp;  I find great joy in programming and sharing knowledge with others. <br/><br/>
- ❤️ &emsp;  I have a deep passion for writing code and constantly expanding my knowledge by exploring new features.<br/><br/>
- 📧 &emsp;  Feel free to reach out to me anytime at abdishukrimohamed105@gmail.com<br/><br/>
- 🌱 &emsp;  I’m currently learning AWS cloud computing at  alx_africa and python <br/><br/>
- 💞️ &emsp;  I’m looking to collaborate on any full-stack project
-  <!--  💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)<br/><br/> -->
-
+ ✌️  &emsp;  AWS Solutions Architect and Software Engineer. <br/><br/>
+ ✌️  &emsp;  Passionate about sharing knowledge and empowering others. <br/><br/>
+ ❤️ &emsp;  Deeply committed to writing efficient code and continuously expanding expertise. <br/><br/>
+ 📧 &emsp;  Reach out to me anytime at abdishukrimohamed105@gmail.com. <br/><br/>
+ 🌱 &emsp;  Excited to explore new opportunities and advance in the cloud industry. <br/><br/>
+ 💞️ &emsp;  Open to collaborating on software engineering and cloud projects. <br/><br/>
 </p>
+
 
 <br/>
 <br/>
